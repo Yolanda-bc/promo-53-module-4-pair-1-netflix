@@ -1,5 +1,5 @@
 {
-  "name": "adalab-netflix",
+  "name": "pair-1",
   "private": true,
   "version": "1.1.0",
   "description": "Express server to implement a web application to manage your favourites movies.",
@@ -29,6 +29,7 @@
   "homepage": "https://github.com/Adalab/ejercicios-de-los-materiales#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.21.0"
+    "express": "^4.21.2",
+    "mysql2": "^3.14.1"
   }
 }
